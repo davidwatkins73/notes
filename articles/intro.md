@@ -20,7 +20,7 @@ current status quo of enterprise information management.
 
 ### Core Entities 
 
-The core of Waltz revolves around several basic entities:
+Waltz's revolves around several basic entities:
 
 - _Organisational Units_:  the hierarchy of departments and divisions within the enterprise
 - _Applications_ and _Actors_:  applications are used when describing the technical landscape and are 
@@ -140,7 +140,7 @@ analysing its bill of materials.
 Waltz is being actively developed.  Focus areas for the coming months are around enhanced support for Surveys, 
 data lineage, future state and cataloging opensource license and security vulnerabilities.
 
-A key challenge we face is evolving Waltz to better support the move away from traditional application architectures
+A key challenge we face is evolving Waltz to better support the transition from traditional application architectures
 to more modern architectures such as micro-services and lambdas.  As applications are broken apart we need to 
 consider how we can maintain a clear picture at the enterprise level and ensure that adequate governance, policies 
 and procedures are in place.
