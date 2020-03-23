@@ -36,9 +36,9 @@ The core of Waltz revolves around several basic entities:
 - _People_:  Waltz is particularly interested in how people are related to the above entities. 
 
 These core entities (and many other supporting entities) form the basis of the Waltz data model.  Flexibility
-in the model is offered by specific, client definable, extension.  Having a strong, opinionated model allows Waltz 
-to do a lot more 'out of the box' without requiring heavy customisation which often yields unsatisfactory results
-and increases delivery times.
+in the model is offered by specific, client definable, extension entities.  Having a strong, opinionated model 
+allows Waltz to do a lot more 'out of the box' without requiring heavy customisation which often yields 
+unsatisfactory results and increases delivery times.
 
 Combining these entities allows us to describe an individual application, a simple example would be:
  
